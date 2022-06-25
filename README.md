@@ -1,6 +1,6 @@
 # Tableau-Bike-share
 ## Overview 
-A Denver bikeshare has hired us to analyze and vizualize their user data.
+A Denver bikeshare has hired us to interpret their user data.
 
 ### Purpose
 Use python to clean the data, then vizualize its results in Tableau.
