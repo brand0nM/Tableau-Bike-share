@@ -1,25 +1,12 @@
 # Tableau-Bike-share
-Use Tableau to visualize bike-share data
-https://public.tableau.com/app/profile/brandon.montalvo/viz/BikeshareStory/BikeshareStory
-You must use the five visualizations that you created in Deliverable 2.
-You must use at least two visualizations that you created in this module.
-In your README markdown file, include the following:
 ## Overview 
-Overview of the statistical analysis:
+A Denver bikeshare has hired us to analyze and vizualize their user data.
 
-The purpose of the analysis is well defined. (5 pt)
 ### Purpose
-of this analysis.
+Use python to clean the data, then vizualize its results in Tableau.
+
 ## Results
-Results:
+https://public.tableau.com/app/profile/brandon.montalvo/viz/BikeshareStory/BikeshareStory
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 ## Summary 
-Summary:
-
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+In general, bikes are rented for shorter trips to and from work, and the vast majority of these users are subscribers. Bikes rented on the weekend appear to be for social purposes, since their usage peaks at lunch and is non-existant at 7am/5pm- customer usage peaking on the weekend also confirms this fact. Hence, customers use bikes for fun in their time off while subscribers use bikes as their primary means of transportation. Additionally, while the default birth year is 1969- which skewed the age demographic- the average user is between 30-50 years old. Finally, more unknown users are customers than subscribers, indicating there are less non-binary users and more who simply declined to answer- or went with the default gender, unknown.
